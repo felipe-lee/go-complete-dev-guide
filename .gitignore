@@ -1,3 +1,7 @@
+# IDEs
+.idea
+.history
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
