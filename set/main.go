@@ -2,7 +2,7 @@
 set is a little experiment of mine with implementing the set type in go, similar to set in python. It is definitely not
 a thorough implementation. Mainly an exercise for myself. I did find this package which seems much better (though
 doesn't seem actively maintained): https://github.com/deckarep/golang-set
- */
+*/
 package main
 
 import (

@@ -7,7 +7,7 @@ func main() {
 
 	evenOrOdd := ""
 	for _, num := range nums {
-		if num % 2 == 0 {
+		if num%2 == 0 {
 			evenOrOdd = "even"
 		} else {
 			evenOrOdd = "odd"
